@@ -4,3 +4,4 @@ A brief description of the project.
 - Fast and lightweight
 - Easy to configure
 ## Installation
+```bash\nnpm install my-app\n```
