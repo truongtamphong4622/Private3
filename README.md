@@ -5,3 +5,4 @@ A brief description of the project.
 - Easy to configure
 ## Installation
 ```bash\nnpm install my-app\n```
+## Usage
