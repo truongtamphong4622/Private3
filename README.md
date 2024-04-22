@@ -6,3 +6,4 @@ A brief description of the project.
 ## Installation
 ```bash\nnpm install my-app\n```
 ## Usage
+```bash\nnpm start\n```
