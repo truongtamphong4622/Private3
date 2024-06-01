@@ -8,3 +8,4 @@ A brief description of the project.
 ## Usage
 ```bash\nnpm start\n```
 ## Configuration
+Edit the `.env` file to update environment settings.
