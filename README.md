@@ -12,3 +12,4 @@ Edit the `.env` file to update environment settings.
 ## API Reference
 GET /status - Check server health
 ## Examples
+```js\nconsole.log('Hello world');\n```
