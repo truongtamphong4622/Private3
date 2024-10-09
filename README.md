@@ -14,3 +14,4 @@ GET /status - Check server health
 ## Examples
 ```js\nconsole.log('Hello world');\n```
 ## Contributing
+Please open issues or pull requests for improvements.
