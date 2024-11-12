@@ -15,3 +15,4 @@ GET /status - Check server health
 ```js\nconsole.log('Hello world');\n```
 ## Contributing
 Please open issues or pull requests for improvements.
+## License
