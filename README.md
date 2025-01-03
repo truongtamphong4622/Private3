@@ -16,3 +16,4 @@ GET /status - Check server health
 ## Contributing
 Please open issues or pull requests for improvements.
 ## License
+This project is licensed under the MIT License.
